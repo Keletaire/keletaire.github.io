@@ -4,7 +4,8 @@ body {
 	text-transform: uppercase;
 	text-align: center;
 	margin-top: 10%;
-	-vendor-animation-delay: 2s;
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
 }
 
 .name {
